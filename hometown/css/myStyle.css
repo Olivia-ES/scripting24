@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Homemade+Apple&family=Nanum+Pen+Script&display=swap');
+header{
+ text-align: center;
+ background-image: url(../Images/CherryblossomsBG.jpg);
+ color: black;
+ padding-top: 50px;
+ padding-bottom: 50px;
+ font-family: "Anton", sans-serif;
+}
+nav{
+    position: sticky;
+    background-color:rgb(255, 100, 190);
+    padding-bottom: 50px;
+}
+li a:hover {
+  background-color: rgb(212, 36, 139);
+  color: white;
+}
+body{
+    background-color: rgb(212, 36, 139);
+    color: rgb(255, 255, 255);
+    font-family: "Quicksand", sans-serif;
+}
+h2{
+    text-align: center;
+    font-family: "Anton", sans-serif;
+    
+    
+}
+footer{
+    color: black;
+    background-color: blanchedalmond;
+    display: block;
+    margin: 60px;
+    font-family: "Anton", sans-serif;
+}
+section{
+    background-color: rgb(255,100,190);
+    display: block;
+    padding-top: 55px;
+    padding-bottom: 55px;
+    margin: 60px;
+    color: blanchedalmond;
+}
+p{
+    
+    margin: 50px;
+ font-size: x-large;
+}
+h2{
+    margin: 50px;
+}
+
