@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Homemade+Apple&family=Nanum+Pen+Script&family=Protest+Revolution&family=Quicksand:wght@300..700&display=swap');
+header{
+    /* put a BG image fluid */
+    font-family: "Protest Revolution", sans-serif;
+}
+body{
+    background-image: url(../images/NewBGimage.jpg);
+    background-repeat: repeat-y;
+    background-position: center top;
+    font-family: "Comfortaa", sans-serif;
+
+}
+h1{
+    margin-bottom: 40px;
+    font-family: "Protest Revolution", sans-serif;
+}
+p{
+    font-family: "Comfortaa", sans-serif; 
+    background-color: rgb(228, 255, 72);
+    font-size: x-large;
+    
+}
+
+input[type=text] {
+  border: none;
+  border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+output{
+    margin-top: 25px;
+    padding-top: 50px;
+}
+footer{
+    font-size: x-large;
+}
+div{
+    margin-top: 25px;
+}
